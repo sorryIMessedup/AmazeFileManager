@@ -1,0 +1,980 @@
+2023-12-17 18:00:00.050  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:00.050  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:00.061  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:00.083  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:00.083  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:00.092  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.202  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.202  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.208  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.208  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.215  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.224  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.224  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.233  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.248  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.285  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.285  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.310  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.321  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.321  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.331  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.340  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.340  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.351  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.351  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.356  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.370  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.370  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.381  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.391  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.391  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.399  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.420  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.420  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.431  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.455  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.466  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.466  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.483  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.483  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.498  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.498  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.502  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.517  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.517  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.521  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.535  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.535  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.538  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.554  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.570  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.570  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.583  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.593  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.593  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.601  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.612  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.612  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.624  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.624  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.639  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.648  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.648  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.664  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.668  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.668  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.679  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.679  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.692  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.701  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.701  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.715  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.715  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.727  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.737  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.737  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.747  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.757  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.757  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.767  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.776  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.776  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.789  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.789  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.794  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.807  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.807  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:02.812  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.829  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:02.846  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.282  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.282  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.290  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.290  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.296  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.306  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.307  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.315  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.327  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.327  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.338  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.347  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.348  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.355  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.368  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.368  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.371  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.383  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.383  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.391  1736-2312  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.404  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.404  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.410  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.420  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.420  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.431  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.441  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.441  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.451  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.451  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.457  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.469  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.469  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.486  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.486  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.489  1736-1753  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.503  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.503  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.513  1746-2150  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:04.513  1746-2150  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:04.513 28654-29908 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:04.519  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.527  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.527  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.534  1746-18474 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:04.534  1746-18474 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:04.534 28654-29908 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:04.538  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.538  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.548  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.559  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.559  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.574  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.574  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.574  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.579  1746-16240 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:04.579  1746-16240 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:04.579 28654-29908 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:04.590  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.590  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.598  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.609  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.609  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.618  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.627  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.627  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.635  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.644  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.644  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.662  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.666  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.666  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.677  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.677  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.680  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.694  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.694  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.711  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.711  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.714  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.730  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.730  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.745  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.754  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.754  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.762  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.770  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.770  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.785  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.790  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.790  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.800  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.800  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.808  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.819  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.819  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.826  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.836  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.836  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.847  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.857  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.857  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.865  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.876  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.876  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.883  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.892  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.893  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.901  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.917  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.928  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.928  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.939  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.939  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.950  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.960  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.960  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.971  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:04.981  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.981  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:04.993  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.009  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.009  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.016  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.028  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.028  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.032  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.045  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.045  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.050  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.081  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.560  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.560  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.579  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.579  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.579  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.586  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.586  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.592  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.610  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.628  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.628  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.641  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.652  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.653  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.657  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.657  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.673  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.673  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.685  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.696  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.696  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.704  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.714  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.714  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.724  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.733  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.733  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.742  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.750  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.750  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.759  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.768  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.768  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.780  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.780  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.794  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.805  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.805  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.814  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.814  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.827  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.838  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.838  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.849  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.849  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.862  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.872  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.872  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.879  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.889  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.889  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.898  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.907  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.908  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.917  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.925  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.925  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.937  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.937  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.939  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.955  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.955  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.969  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:05.978  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.978  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.991  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:05.991  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.010  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.012  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.012  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.021  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.031  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.031  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.041  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.041  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.053  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.063  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.064  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.072  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.083  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.083  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.094  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.095  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.107  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.117  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.117  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.125  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.134  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.134  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.141  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.174  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.538  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.538  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.548  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.548  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.554  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.567  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.567  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.574  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.584  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.584  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.591  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.603  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.603  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.608  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.619  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.619  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.625  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.636  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.636  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.644  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.654  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.655  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.659  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.673  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.673  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.680  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.692  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.692  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.698  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.707  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.707  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.714  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.725  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.725  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.734  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.746  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.746  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.761  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.761  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.761  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.776  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.776  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.785  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.794  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.794  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.804  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.813  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.813  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.813  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.813  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.827  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.841  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.841  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.846  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.846  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.857  1746-16240 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:06.857  1746-16240 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:06.857 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:06.860  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.868  1746-2150  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:06.868  1746-2150  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:06.868 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:06.868  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.868  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.879  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.879  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.881  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.884  1746-16240 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:06.884  1746-16240 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:06.884 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:06.897  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.897  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.904  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.916  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.916  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.925  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.934  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.934  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.946  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.958  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.958  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.967  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.967  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.972  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:06.985  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:06.985  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.002  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.011  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.011  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.023  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.023  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.027  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.039  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.039  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.046  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.057  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.057  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.072  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.072  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.073  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.089  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.089  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.096  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.109  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.109  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.119  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.131  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.131  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.147  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.151  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.151  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.161  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.161  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.163  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.178  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.178  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.185  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.197  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.197  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.214  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.225  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.225  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.232  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.232  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.239  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.251  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.251  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.259  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.270  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.270  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.276  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.292  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.303  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.303  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.318  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.318  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.328  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.338  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.338  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.352  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.352  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.363  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.379  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.389  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.389  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.405  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.405  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.416  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.435  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.447  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.447  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.454  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.463  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.463  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.474  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.505  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.536  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.536  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.546  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.546  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.551  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.565  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.565  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.570  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.583  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.583  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.593  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.606  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.606  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.616  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.616  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.623  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.635  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.635  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.650  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.658  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.658  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.668  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.668  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.668  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.686  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.686  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.698  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.711  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.711  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.721  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.721  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.721  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.722  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.730  1746-2150  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:07.730  1746-2150  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:07.731 28654-29713 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:07.739  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.739  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.751  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.754  1746-16240 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:07.754  1746-16240 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:07.754 28654-29713 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:07.763  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.763  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.775  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.775  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.782  1746-16240 Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:07.782  1746-16240 MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:07.782 28654-29713 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:07.783  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.793  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.793  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.797  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.811  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.811  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.818  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.827  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.827  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.838  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.847  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.847  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.859  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.859  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.871  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.881  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.881  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.893  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.894  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.909  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.918  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.918  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.936  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.937  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.937  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.947  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.954  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.954  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.965  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.971  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.972  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.984  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:07.991  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:07.991  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.010  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.010  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.010  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.018  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.018  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.023  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.036  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.036  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.042  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.054  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.054  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.060  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.072  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.072  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.086  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.086  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.093  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.106  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.106  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.115  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.126  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.126  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.140  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.140  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.157  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.157  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.169  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.179  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.179  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.190  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.199  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.199  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.210  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.210  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.218  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.229  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.229  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.241  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.251  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.251  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.259  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.268  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.268  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.277  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.288  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.288  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.295  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.310  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.321  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.321  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.332  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.332  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.349  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.349  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.361  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.370  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.370  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.383  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.384  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.396  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.405  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.405  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.417  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.425  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.425  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.437  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.437  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.442  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.455  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.463  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.463  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.472  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.481  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.481  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.498  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.498  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.498  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.507  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.515  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.515  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.523  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.523  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.537  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.546  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.546  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.559  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.559  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.572  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.581  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.581  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.593  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.593  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.606  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.615  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.615  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.630  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.630  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.644  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.654  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.654  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.667  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.667  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.685  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.685  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.707  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.707  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.719  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.719  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.719  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.736  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.736  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.746  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.757  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.757  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.771  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.771  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.777  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.788  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.788  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.805  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.805  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.822  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.822  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.828  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.852  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.863  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.863  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.874  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.874  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.893  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.893  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.908  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.908  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.925  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.932  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.932  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.941  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.951  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.951  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.962  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.962  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.971  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:08.982  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.982  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:08.991  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.000  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.000  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.013  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.020  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.020  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.030  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.030  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.038  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.050  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.050  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.055  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.067  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.067  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.074  1736-1760  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.086  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.086  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.100  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.109  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.109  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.120  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.120  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.128  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.140  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.140  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.153  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.153  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.156  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.178  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.178  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.191  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.191  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.198  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.205  1746-1746  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:09.205  1746-1746  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:09.205 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:09.208  1746-2150  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:09.208  1746-2150  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:09.208 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:09.209  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.209  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.212  1746-1793  Stagefrigh...aRetriever mediaserver                          E  extractor doesn't publish metadata, failed to initialize?
+2023-12-17 18:00:09.212  1746-1793  MetadataRetrieverClient mediaserver                          E  failed to capture a video frame
+2023-12-17 18:00:09.212 28654-30116 MediaMetad...trieverJNI com.amaze.filemanager.debug          E  getFrameAtTime: videoFrame is a NULL pointer
+2023-12-17 18:00:09.218  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.230  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.230  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.242  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.242  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.258  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.258  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.269  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.278  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.278  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.293  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.293  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.298  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.312  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.312  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.328  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.328  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.341  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.351  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.351  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.371  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.371  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.377  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.388  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.388  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.419  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.419  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.419  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.426  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.433  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.433  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.441  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.454  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.454  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.460  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.470  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.470  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.486  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.486  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.496  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.507  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.507  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.516  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.526  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.526  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.539  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.539  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.551  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.562  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.562  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.568  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.578  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.578  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.589  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.602  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.602  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.608  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.609  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.609  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.626  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.632  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.632  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.644  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.644  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.646  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.661  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.661  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.669  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.680  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.680  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.688  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.698  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.698  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.707  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.717  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.717  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.723  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.732  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.732  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.739  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.750  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.750  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.757  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.766  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.766  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.775  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.786  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.786  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.792  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.803  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.803  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.810  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.821  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.821  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.827  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.839  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.839  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.844  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.855  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.855  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.863  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.874  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.874  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.880  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.891  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.891  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.898  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.907  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.907  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.913  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.923  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.923  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.930  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.942  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.942  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.949  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.961  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.961  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.968  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.979  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.979  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.985  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:09.994  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:09.995  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.002  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.011  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.011  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.017  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.028  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.028  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.037  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.046  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.046  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.053  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.064  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.064  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.072  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.082  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.082  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.088  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.100  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.100  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.105  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.117  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.117  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.122  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.135  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.135  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.141  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.152  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.152  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.157  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.169  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.169  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.174  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.187  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.187  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.192  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.203  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.203  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.209  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.222  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.222  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.229  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.240  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.240  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.246  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.255  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.255  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.264  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.274  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.274  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.280  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.292  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.292  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.297  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.309  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.309  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.317  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.326  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.326  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.333  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.343  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.343  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.350  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.361  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.361  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.368  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.378  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.379  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.387  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.398  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.398  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.404  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.413  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.413  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.421  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.431  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.431  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.438  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.450  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.450  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.455  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.466  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.466  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:10.474  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:10.506  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:11.171  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.171  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.182  1736-2126  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:11.183  1880-1898  BatteryExt...tatsWorker system_server                        E  no controller energy info supplied for wifi
+2023-12-17 18:00:11.205  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.205  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.216  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.216  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.224  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:11.233  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.233  1736-1736  HWComposer              surfaceflinger                       E  getLayerReleaseFence failed for display -1: Invalid display
+2023-12-17 18:00:11.236  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:11.252  1736-1963  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2023-12-17 18:00:12.524  1751-2198  BufferQueueProducer     media.codec                          E  [GraphicBufferSource] cancelBuffer: BufferQueue has been abandoned
+2023-12-17 18:00:16.779  1836-1836  netmgr                  netmgr                               E  Failed to open QEMU pipe 'qemud:network': Invalid argument
+2023-12-17 18:00:16.779  1836-1836  netmgr                  netmgr                               E  WifiForwarder unable to open QEMU pipe: Invalid argument
+2023-12-17 18:00:19.480  1749-1773  storaged                storaged                             E  getDiskStats failed with result NOT_SUPPORTED and size 0
+2023-12-17 18:00:22.779 30620-30620 oid.apps.photo          pid-30620                            E  Not starting debugger since process cannot load the jdwp agent.
+2023-12-17 18:00:23.029 30655-30655 metadataservic          pid-30655                            E  Not starting debugger since process cannot load the jdwp agent.
+2023-12-17 18:00:23.066 30655-30655 FileSource              pid-30655                            E  Failed to open file 'content://media/external/video/media/64'. (No such file or directory)
+2023-12-17 18:00:23.082 30620-30652 oid.apps.photo          com.google.android.apps.photos       E  The String#value field is not present on Android versions >= 6.0
+2023-12-17 18:00:23.105 30655-30655 FileSource              pid-30655                            E  Failed to open file 'content://media/external/video/media/64'. (No such file or directory)
+2023-12-17 18:00:28.192  1880-1898  BatteryExt...tatsWorker system_server                        E  no controller energy info supplied for wifi
+2023-12-17 18:00:43.151  1880-1893  memtrack                system_server                        E  Couldn't load memtrack module
+2023-12-17 18:01:00.002  1880-1893  memtrack                system_server                        E  Couldn't load memtrack module
+2023-12-17 18:01:00.010  1880-1893  memtrack                system_server                        E  Couldn't load memtrack module
+2023-12-17 18:01:16.781  1836-1836  netmgr                  netmgr                               E  Failed to open QEMU pipe 'qemud:network': Invalid argument
+2023-12-17 18:01:16.781  1836-1836  netmgr                  netmgr                               E  WifiForwarder unable to open QEMU pipe: Invalid argument
+2023-12-17 18:01:19.482  1749-1773  storaged                storaged                             E  getDiskStats failed with result NOT_SUPPORTED and size 0
