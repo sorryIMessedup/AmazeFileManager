@@ -1,0 +1,38 @@
+2023-12-17 04:56:14.370 26946-27307 SQLiteLog               com.amaze.filemanager.debug          E  (14) cannot open file at line 36667 of [c255889bd9]
+2023-12-17 04:56:14.370 26946-27307 SQLiteLog               com.amaze.filemanager.debug          E  (14) os_unix.c:36667: (2) open(/storage_root) - 
+2023-12-17 04:56:14.370 26946-27307 SQLiteDatabase          com.amaze.filemanager.debug          E  Failed to open database '/storage_root'.
+                                                                                                    android.database.sqlite.SQLiteCantOpenDatabaseException: unknown error (code 14 SQLITE_CANTOPEN): Could not open database
+                                                                                                    	at android.database.sqlite.SQLiteConnection.nativeOpen(Native Method)
+                                                                                                    	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:211)
+                                                                                                    	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:195)
+                                                                                                    	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:503)
+                                                                                                    	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:204)
+                                                                                                    	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:196)
+                                                                                                    	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:880)
+                                                                                                    	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:865)
+                                                                                                    	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:766)
+                                                                                                    	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:714)
+                                                                                                    	at com.amaze.filemanager.ui.activities.DatabaseViewerActivity.lambda$load$2$com-amaze-filemanager-ui-activities-DatabaseViewerActivity(DatabaseViewerActivity.java:132)
+                                                                                                    	at com.amaze.filemanager.ui.activities.DatabaseViewerActivity$$ExternalSyntheticLambda1.run(Unknown Source:4)
+                                                                                                    	at java.lang.Thread.run(Thread.java:764)
+2023-12-17 04:56:14.393  1736-2126  BufferQueueProducer     surfaceflinger                       E  [Splash Screen com.amaze.filemanager.debug#0] dequeueBuffer: BufferQueue has been abandoned
+2023-12-17 04:56:14.393  1880-1941  Surface                 system_server                        E  dequeueBuffer failed (No such device)
+2023-12-17 04:56:14.393  1880-1941  ViewRootImpl[debug]     system_server                        E  Could not lock surface
+                                                                                                    java.lang.IllegalArgumentException
+                                                                                                    	at android.view.Surface.nativeLockCanvas(Native Method)
+                                                                                                    	at android.view.Surface.lockCanvas(Surface.java:345)
+                                                                                                    	at android.view.ViewRootImpl.drawSoftware(ViewRootImpl.java:3378)
+                                                                                                    	at android.view.ViewRootImpl.draw(ViewRootImpl.java:3339)
+                                                                                                    	at android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3115)
+                                                                                                    	at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2484)
+                                                                                                    	at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1460)
+                                                                                                    	at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7183)
+                                                                                                    	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:949)
+                                                                                                    	at android.view.Choreographer.doCallbacks(Choreographer.java:761)
+                                                                                                    	at android.view.Choreographer.doFrame(Choreographer.java:696)
+                                                                                                    	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:935)
+                                                                                                    	at android.os.Handler.handleCallback(Handler.java:873)
+                                                                                                    	at android.os.Handler.dispatchMessage(Handler.java:99)
+                                                                                                    	at android.os.Looper.loop(Looper.java:193)
+                                                                                                    	at android.os.HandlerThread.run(HandlerThread.java:65)
+                                                                                                    	at com.android.server.ServiceThread.run(ServiceThread.java:44)
